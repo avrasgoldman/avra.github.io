@@ -19,6 +19,9 @@ h1 {
   font-family: Lato;
   font-weight: 300;
 }
+background {
+  color: brown;
+}
 
 /*
  * Remove text-shadow in selection highlight:
