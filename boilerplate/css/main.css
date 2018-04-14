@@ -18,6 +18,7 @@ html {
 h1 {
   font-family: Lato;
   font-weight: 300;
+  font-size: -webkit-xxx-large;
 }
 body {
   background-color: brown;
