@@ -71,6 +71,7 @@ img,
 svg,
 video {
     vertical-align: middle;
+    block-size: 1400px;
 }
 
 /*
